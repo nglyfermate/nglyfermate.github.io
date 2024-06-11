@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nglyfermate.github.io/sitemap.html
+Sitemap: https://nglyfermate.github.io/app/sitemap.html
+Sitemap: https://nglyfermate.github.io/assets/sitemap.html
+Sitemap: https://nglyfermate.github.io/css/sitemap.html
+Sitemap: https://nglyfermate.github.io/includes/sitemap.html
+Sitemap: https://nglyfermate.github.io/item/sitemap.html
+Sitemap: https://nglyfermate.github.io/src/sitemap.html
